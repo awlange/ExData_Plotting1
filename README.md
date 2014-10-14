@@ -1,3 +1,9 @@
+## Notes for peer grader
+
+- The raw data was subsetted to <pre>household_power_consumption_subset.txt</pre> using vim to delete lines
+above and below the required dates of 1/2/2007 to 2/2/2007
+- The subsetted data is compressed with gzip. To run the R scipts, one simply needs to gunzip them.
+
 ## Introduction
 
 This assignment uses data from
