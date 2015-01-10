@@ -5,6 +5,7 @@ above and below the required dates of 1/2/2007 to 2/2/2007
 - The subsetted data is compressed with gzip. To run the R scipts, one simply needs to gunzip them the
 subsetted data file beforehand.
 
+
 ## Introduction
 
 This assignment uses data from
